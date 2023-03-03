@@ -10,7 +10,7 @@ package:
 source:
   url:
     - {{ cran_mirror }}/src/contrib/AzureAuth_{{ version }}.tar.gz
-    - {{ cran_mirror }}/src/contrib/Archive/AzureAuth/AzureAuth_{{ version }}.tar.gz
+#    - {{ cran_mirror }}/src/contrib/Archive/AzureAuth/AzureAuth_{{ version }}.tar.gz
   sha256: 1f7422bbd606774e821a200f28962190d1cae041a4552350cf2b26c9d63e39ab
 
 build:
