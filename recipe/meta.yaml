@@ -60,7 +60,7 @@ test:
     # Put any additional test requirements here.
 
 about:
-  home: https://github.com/Azure/AzureAuth https://github.com/Azure/AzureR
+  home: https://github.com/Azure/AzureAuth 
   license: MIT
   summary: Provides Azure Active Directory (AAD) authentication functionality for R users of
     Microsoft's 'Azure' cloud <https://azure.microsoft.com/>. Use this package to obtain
