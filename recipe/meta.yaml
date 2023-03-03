@@ -77,13 +77,13 @@ about:
 
 #extra:
     
-#  skip-lints:
+  skip-lints:
     - invalid_url
     
-#  anaconda-services: 
-#   ref: https://anaconda.zendesk.com/agent/tickets/32963
-#   recipe-maintainers:
-#      - ianaobi
+  anaconda-services: 
+   ref: https://anaconda.zendesk.com/agent/tickets/32963
+   recipe-maintainers:
+      - ianaobi
 
 # The original CRAN metadata for this package was:
 
