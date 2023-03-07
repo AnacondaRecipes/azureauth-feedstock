@@ -79,7 +79,7 @@ extra:
     
 #  skip-lints:
 #    - invalid_url
-  only_lint:
+  only-lint:
     - missing_source
     
   anaconda-services: 
