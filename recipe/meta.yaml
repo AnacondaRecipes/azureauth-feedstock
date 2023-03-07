@@ -75,7 +75,7 @@ about:
     - '{{ environ["PREFIX"] }}/lib/R/share/licenses/MIT'
     - LICENSE
 
-#extra:
+extra:
     
   skip-lints:
     - invalid_url
