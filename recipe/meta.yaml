@@ -83,7 +83,7 @@ extra:
     - missing_source
     
   anaconda-services: 
-   ref-ticket: https://anaconda.zendesk.com/agent/tickets/32963
+   ref: https://anaconda.zendesk.com/agent/tickets/32963
    recipe-maintainers:
       - ianaobi
 
