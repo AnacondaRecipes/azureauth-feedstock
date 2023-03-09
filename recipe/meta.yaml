@@ -30,7 +30,8 @@ requirements:
     - {{ posix }}zip               # [win]
 
   host:
-    - r-base
+    - r-base =={{ r_version }}
+#    - r-base
     - r-r6
     - r-httr >=1.3
     - r-jose
@@ -39,7 +40,8 @@ requirements:
     - r-rappdirs
 
   run:
-    - r-base
+    - r-base =={{ r_version }}
+#    - r-base
     - r-r6
     - r-httr >=1.3
     - r-jose
